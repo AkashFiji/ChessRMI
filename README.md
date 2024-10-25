@@ -1,11 +1,19 @@
 ## Chess Game using RMI
-Run it in NetBeans
+This program can host up to 6 players in total.
 
-### Screenshots
+### How to run the app:
+1. Open in IDE
+2. Run the server file
+3. Run the client
 
-#### Screenshot 1: Main Menu
+----
+
+#### Main Menu
 ![Main Menu](screenshot/Game_GUI.png)
 
-#### Screenshot 2: Game Board
+----
+
+#### Game Board
 ![Game Board](screenshot/chess.gif)
 
+----
