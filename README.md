@@ -8,12 +8,12 @@ This program can host up to 6 players in total.
 
 ----
 
-#### Main Menu
+### Main Menu
 ![Main Menu](screenshot/Game_GUI.png)
 
 ----
 
-#### Game Board
+### Game Board
 ![Game Board](screenshot/chess.gif)
 
 ----
